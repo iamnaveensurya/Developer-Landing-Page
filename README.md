@@ -8,7 +8,8 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Screenshot :
 ---
 
->![Project 9 Screenshot](website%20thumbnail.gif)
+>![Project 9 Screenshot](website%20thumbnail.png)
+>>![Project 9 Screenshot](website%20thumbnail.gif)
 
 
 ### Live Preview :
