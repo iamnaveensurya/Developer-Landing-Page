@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 9 Website-Design-Landing-Page ![Project badge](https://img.shields.io/badge/PROJECT%208-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 9 developer-landing-home-page ![Project badge](https://img.shields.io/badge/PROJECT%209-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
@@ -8,13 +8,13 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Screenshot :
 ---
 
->![Project 8 Screenshot](website%20thumbnail.png)
+>![Project 9 Screenshot](website_thumbnail.gif)
 
 
 ### Live Preview :
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://website-design-landing-pag.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://developer-landing-home-page.netlify.app/)
 
 
 ### Things i have learned working on this project :
